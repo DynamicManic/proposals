@@ -1,0 +1,7 @@
+{
+    "title": "Community Support DAO",
+    "description": "Allocate 60,000 OSMO from the community pool to a community multisig address. More information available here: https://gist.github.com/johnpatten1/182dfb0b12d1b68212a24a7f0bcb94fc",
+    "recipient": "osmo1jfj7k09x207fw5rq5vgrwc5fpzpxw3cz73hcjq",
+    "amount": "60000000000uosmo",
+    "deposit": "1uosmo"
+}
